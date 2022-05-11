@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+img{
+    border: 5px solid white;
+    position: absolute;
+}
+div{
+    padding-left: 28%;
+    padding-top: 15%;
+    position: relative;
+}
+span{
+    color: rgb(0, 0, 0);
+    background-color: rgba(167, 159, 189, 0.575);
+    display: block;
+    width:79px;
+    padding: 4px;
+    border-radius: 10px;
+    z-index: 100;
+    position: absolute;
+    margin-left:690px;
+    margin-top: 190px;
+    word-spacing: 5px;
+    border: 3px solid rgba(15, 194, 15, 0.726);
+}
